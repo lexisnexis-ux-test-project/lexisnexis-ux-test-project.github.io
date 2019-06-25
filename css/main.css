@@ -1,5 +1,9 @@
+/* 
+ * Github Pages insisted on setting some sort of margin around the whole body??? I do NOT like to use !important unless I have to...
+ */
+
 body {
-  margin: 0px;
+  margin: 0px !important;
 }
 
 .container {
@@ -11,7 +15,7 @@ body {
  */
 
 .site-header {
-  background-color: rgba(0, 0, 0, .85);
+  background-color: rgba(80, 0, 20, .85);
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
 }
