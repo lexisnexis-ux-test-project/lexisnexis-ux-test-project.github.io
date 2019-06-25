@@ -15,9 +15,9 @@ body {
  */
 
 .site-header {
-  background-color: rgba(80, 0, 20, .85);
-  -webkit-backdrop-filter: saturate(180%) blur(20px);
-  backdrop-filter: saturate(180%) blur(20px);
+  background-color: #cc0037;
+/*   -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px); */
 }
 .site-header a {
   color: #999;
