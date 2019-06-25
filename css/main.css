@@ -12,7 +12,7 @@
   border-radius: 50px;
   border-color: white;
   
-  width: 100px;
+  width: 80px;
 }
 
 .headerButton:hover {
@@ -43,7 +43,7 @@
 }
 
 /*
- * Dummy devices (replace them with your own or something else entirely!)
+ * Dummy devices
  */
 
 .product-device {
