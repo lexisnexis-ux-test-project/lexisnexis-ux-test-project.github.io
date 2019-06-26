@@ -1,9 +1,11 @@
 /* 
- * some sort of margin around the whole body...?
+ * some sort of margin around the whole body...? also, font family set to Lato
  */
 
  body {
   margin: 0px !important;
+
+  font-family: 'Lato';
 }
 
 /*
@@ -24,6 +26,10 @@
 
 .bgDarkRed {
   background-color:#a50029;
+}
+
+.whiteText {
+  color: white;
 }
 
 .headerButton {
