@@ -37,10 +37,10 @@
   color: #fff;
   transition: ease-in-out color .15s;
 }
-.site-header a:hover {
+/* .site-header a:hover {
   color: #999;
   text-decoration: none;
-}
+} */
 
 /*
  * Dummy devices
