@@ -29,7 +29,7 @@
 }
 
 .whiteText {
-  color: white;
+  color: white !important;
 }
 
 .headerButton {
