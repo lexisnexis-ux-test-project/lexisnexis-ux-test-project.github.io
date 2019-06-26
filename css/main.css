@@ -6,6 +6,26 @@
   margin: 0px !important;
 }
 
+/*
+ * Class to get rid of inherited margins from bootstrap
+ */
+
+.noMargin {
+  margin: 0px !important
+}
+
+/*
+ * bg colors classes
+ */
+
+.bgLexisRed {
+  background-color:#CC0033;
+}
+
+.bgDarkRed {
+  background-color:#a50029;
+}
+
 .headerButton {
   background-color: transparent;
   color: white;
@@ -18,6 +38,14 @@
 .headerButton:hover {
   background-color: white;
   color: #333;
+}
+
+.footerTop {
+  background-color:#CC0033;
+}
+
+.footerBottom {
+  background-color:#A50029;
 }
 
 .container {
