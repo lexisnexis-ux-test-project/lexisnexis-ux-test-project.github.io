@@ -16,6 +16,10 @@
   margin: 0px !important;
 }
 
+.noPaddingBottom {
+  padding-bottom: 0px !important;
+}
+
 /*
  * bg colors classes
  */
